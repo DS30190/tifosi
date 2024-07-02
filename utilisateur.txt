@@ -1,0 +1,8 @@
+Pour accéder à la base de données tifosi hébergée localement :
+
+- Adresse du Serveur : localhost
+- Port MySQL : 3306
+- Nom d'Utilisateur : tifosi
+- Mot de Passe : pizza
+
+Veuillez utiliser ces informations pour vous connecter à MySQL Workbench ou à tout autre outil MySQL compatible afin de gérer la base de données tifosi.
